@@ -1,8 +1,6 @@
 # Semantic Kernel OpenAI Practice
 
-This workspace contains a .NET 8 console app based on the article:
-
-https://jamiemaguire.net/index.php/2024/06/08/first-look-integrating-semantic-kernel-with-openai/
+This workspace contains a .NET 8 console app:
 
 The app creates a Semantic Kernel, registers OpenAI chat completion, stores a `ChatHistory`, and runs an interactive chat loop.
 
